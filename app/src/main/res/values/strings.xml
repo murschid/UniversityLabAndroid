@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab</string>
+    <string name="change_image">Change Image</string>
+    <string name="cat">Cat</string>
+    <string name="dog">Dog</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="game">Game</string>
+    <string name="setting">Setting</string>
+    <string name="player_name">Player Name</string>
+    <string name="start_game">Start Game</string>
+    <string name="questions">The inventor of Linux is Steve Jobbs?</string>
+</resources>
